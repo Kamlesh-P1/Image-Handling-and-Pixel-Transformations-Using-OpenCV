@@ -1,7 +1,7 @@
 # Experiment 1: Image Handling and Pixel Transformations Using OpenCV
 
-**Name:** SHRIVARSHAN P G  
-**Register Number:** 212225240146  
+**Name:** KAMLESH P
+**Register Number:** 212225240067 
 **Experiment:** Image Handling and Pixel Transformations Using OpenCV
 
 ---
@@ -326,55 +326,73 @@ plt.axis("off")
 #1. Original image displayed using OpenCV and Matplotlib.
 
 
+<img width="544" height="771" alt="Screenshot 2026-10-25 150900" src="https://github.com/user-attachments/assets/5df6549b-9b9c-472f-a150-ceb831954097" />
 
 
 
 #2. Image with a line drawn from the top-left to the bottom-right.
 
+<img width="539" height="771" alt="Screenshot 2026-10-25 150932" src="https://github.com/user-attachments/assets/349ae9c4-a61c-428b-a188-224343e97afc" />
 
 
 #3. Image with a circle at the center.
 
+<img width="537" height="773" alt="Screenshot 2026-10-25 150949" src="https://github.com/user-attachments/assets/35094532-ee47-45e2-ad94-a6cca46549cd" />
 
 
 #4. Image with a rectangle around its boundary.
+
+<img width="541" height="772" alt="Screenshot 2026-10-25 151023" src="https://github.com/user-attachments/assets/3a11a813-98d8-4cef-8316-6d7631c8034e" />
 
 
 
 #5. Image with the text "OpenCV Drawing".
 
+<img width="540" height="771" alt="Screenshot 2026-10-25 151145" src="https://github.com/user-attachments/assets/66275cd5-3857-4921-95a7-333059f5ddfa" />
 
 
 #6. HSV, grayscale, and YCrCb color space conversions.
 
+<img width="561" height="766" alt="Screenshot 2026-10-25 151242" src="https://github.com/user-attachments/assets/2140203e-b709-40e3-99bd-a446ff8a8a92" />
 
 
 
+<img width="544" height="765" alt="Screenshot 2026-10-25 151258" src="https://github.com/user-attachments/assets/2bed2092-5e87-4096-b352-34221bd0a745" />
 
 
+<img width="544" height="765" alt="Screenshot 2026-10-25 151316" src="https://github.com/user-attachments/assets/0bcd8ba0-7289-4a24-91cc-fd29ec74589b" />
 
 
 
 #7. Image converted from HSV back to RGB.
 
+<img width="548" height="758" alt="Screenshot 2026-10-25 151336" src="https://github.com/user-attachments/assets/0ae4e7c5-f704-4eef-8822-06944e205015" />
+
 
 
 #8. Pixel value displayed and a white region added to the image.
 
+<img width="562" height="762" alt="Screenshot 2026-10-25 151403" src="https://github.com/user-attachments/assets/08b8b2fe-1958-4e11-8089-887655cf7391" />
 
 
 #9. Image resized to half its original dimensions.
 
+<img width="783" height="655" alt="Screenshot 2026-10-25 151421" src="https://github.com/user-attachments/assets/c1f0708a-1250-4414-8ce8-4a99dc9c8ac8" />
 
 
 #10. Cropped region of interest displayed.
 
+<img width="615" height="658" alt="Screenshot 2026-10-25 151434" src="https://github.com/user-attachments/assets/b4a55d38-ae58-46f2-b797-70b7e0587fdf" />
 
 
 #11. Horizontally flipped image displayed.
 
+<img width="481" height="648" alt="Screenshot 2026-10-25 151502" src="https://github.com/user-attachments/assets/b8e63147-fe2b-4f8c-96a7-9edf0631fcf0" />
+
 
 #12. Vertically flipped image displayed.
+
+<img width="460" height="653" alt="Screenshot 2026-10-25 151513" src="https://github.com/user-attachments/assets/5bc1812f-3f2e-4820-ad15-deafd53a9acf" />
 
 
 
